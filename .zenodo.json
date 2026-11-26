@@ -1,0 +1,28 @@
+{
+  "title": "Comparative Analysis of Machine Learning and Deep Learning Algorithms for Fake News Detection",
+  "description": "University data-mining research software comparing multinomial Naive Bayes, logistic regression, linear SVM, random forest, entropy-based decision tree and a CNN with softmax. Includes original source code and a compatible data preparation script. Third-party datasets, model weights, coursework deliverables and student identifiers are excluded. This is a classification experiment, not a validated fact-checking service. Original software: all rights reserved. Public access for scholarly reference and citation does not grant an open-source reuse license. Third-party rights remain unaffected. See LICENSE.",
+  "creators": [
+    {
+      "name": "Chukwu, John Okike",
+      "affiliation": "Zhejiang University of Technology",
+      "orcid": "0009-0003-3268-6190"
+    },
+    {
+      "name": "Muhammad Bala",
+      "affiliation": "Zhejiang University of Technology"
+    }
+  ],
+  "upload_type": "software",
+  "language": "eng",
+  "keywords": [
+    "machine learning",
+    "natural language processing",
+    "fake news detection",
+    "deep learning",
+    "text classification",
+    "TF-IDF"
+  ],
+  "version": "1.0.0",
+  "access_right": "open",
+  "license": "other-closed"
+}
